@@ -1,16 +1,16 @@
 {
     "version": "1.4.0",
     "project": {
-        "name": "hw07-build",
-        "directory": "/Users/elaineli/Programs/nyu-popl-sp26/hw07/project",
-        "workspaceDir": "/Users/elaineli/Programs/nyu-popl-sp26/hw07/project",
+        "name": "homework-7-solution-build",
+        "directory": "/Users/elaineli/Programs/nyu-popl-sp26/homework-7-solution/project",
+        "workspaceDir": "/Users/elaineli/Programs/nyu-popl-sp26/homework-7-solution/project",
         "sources": [
-            "/Users/elaineli/Programs/nyu-popl-sp26/hw07/project/src/main/scala",
-            "/Users/elaineli/Programs/nyu-popl-sp26/hw07/project/src/main/scala-2.12",
-            "/Users/elaineli/Programs/nyu-popl-sp26/hw07/project/src/main/scala-2",
-            "/Users/elaineli/Programs/nyu-popl-sp26/hw07/project/src/main/java",
-            "/Users/elaineli/Programs/nyu-popl-sp26/hw07/project/src/main/scala-sbt-1.0",
-            "/Users/elaineli/Programs/nyu-popl-sp26/hw07/project/target/scala-2.12/sbt-1.0/src_managed/main"
+            "/Users/elaineli/Programs/nyu-popl-sp26/homework-7-solution/project/src/main/scala",
+            "/Users/elaineli/Programs/nyu-popl-sp26/homework-7-solution/project/src/main/scala-2.12",
+            "/Users/elaineli/Programs/nyu-popl-sp26/homework-7-solution/project/src/main/scala-2",
+            "/Users/elaineli/Programs/nyu-popl-sp26/homework-7-solution/project/src/main/java",
+            "/Users/elaineli/Programs/nyu-popl-sp26/homework-7-solution/project/src/main/scala-sbt-1.0",
+            "/Users/elaineli/Programs/nyu-popl-sp26/homework-7-solution/project/target/scala-2.12/sbt-1.0/src_managed/main"
         ],
         "dependencies": [
             
@@ -103,11 +103,11 @@
             "/Users/elaineli/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/reactivestreams/reactive-streams/1.0.3/reactive-streams-1.0.3.jar",
             "/Users/elaineli/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/typesafe/config/1.4.2/config-1.4.2.jar"
         ],
-        "out": "/Users/elaineli/Programs/nyu-popl-sp26/hw07/project/.bloop/hw07-build",
-        "classesDir": "/Users/elaineli/Programs/nyu-popl-sp26/hw07/project/.bloop/hw07-build/scala-2.12/sbt-1.0/classes",
+        "out": "/Users/elaineli/Programs/nyu-popl-sp26/homework-7-solution/project/.bloop/homework-7-solution-build",
+        "classesDir": "/Users/elaineli/Programs/nyu-popl-sp26/homework-7-solution/project/.bloop/homework-7-solution-build/scala-2.12/sbt-1.0/classes",
         "resources": [
-            "/Users/elaineli/Programs/nyu-popl-sp26/hw07/project/src/main/resources",
-            "/Users/elaineli/Programs/nyu-popl-sp26/hw07/project/target/scala-2.12/sbt-1.0/resource_managed/main"
+            "/Users/elaineli/Programs/nyu-popl-sp26/homework-7-solution/project/src/main/resources",
+            "/Users/elaineli/Programs/nyu-popl-sp26/homework-7-solution/project/target/scala-2.12/sbt-1.0/resource_managed/main"
         ],
         "scala": {
             "organization": "org.scala-lang",
@@ -214,7 +214,7 @@
             "config": {
                 "home": "/usr/local/Cellar/openjdk/25.0.2/libexec/openjdk.jdk/Contents/Home",
                 "options": [
-                    "-Duser.dir=/Users/elaineli/Programs/nyu-popl-sp26/hw07/project"
+                    "-Duser.dir=/Users/elaineli/Programs/nyu-popl-sp26/homework-7-solution/project"
                 ]
             },
             "mainClass": [

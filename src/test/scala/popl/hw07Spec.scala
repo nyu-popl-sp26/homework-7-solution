@@ -128,7 +128,7 @@ class hw07Spec extends AnyFlatSpec:
     val ebg = If(Var(y), Var(x), ebf)
     val g = Function(None, x, TNumber, None, ebg)
     val e2 = Call(g, Num(3))
-    assert(typeInfer(Map.empty, e2) === TNumber)
+    assert(typeInfer(Map(y -> TBool), e2) === TNumber)
     val ebf2 = Call(Var(f), Var(x))
     val f2 = Function(Some(f), x, TNumber, Some(TNumber), ebf2)
     val e3 = Call(f2, Num(3))
